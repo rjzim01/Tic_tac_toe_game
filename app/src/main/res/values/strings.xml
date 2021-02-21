@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="image0">grading</string>
+    <string name="image1">x1</string>
+    <string name="image2">x2</string>
+    <string name="image3">x3</string>
+    <string name="image4">x4</string>
+    <string name="image5">x5</string>
+    <string name="image6">x6</string>
+    <string name="image7">x7</string>
+    <string name="image8">x8</string>
+    <string name="image9">x9</string>
+    <string name="status">status</string>
+    <string name="first">1\'s turn tap to play</string>
+    <string name="splah_screen_image">splah_screen_image</string>
+</resources>
+
